@@ -30,7 +30,14 @@
     }
  
  
- 
+    .email{
+        position: relative;
+        left:170px;
+        border-radius:8px;
+        padding:20px;
+        width:25%;
+        margin:10px;
+    }
  
  
  
