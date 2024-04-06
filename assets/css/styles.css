@@ -1,5 +1,45 @@
  body{
-    background-image:url("../images/bg-pattern-desktop.svg") ;
+ background-image:url("../images/bg-pattern-desktop.svg");
+ font-family: "Josefin Sans", sans-serif;
+ font-optical-sizing: auto;
+ font-style: normal;
+ font-size:16px;
  }
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+    
+
+ .nav-logo{
+    position:relative;
+    left:150px; 
+ }
+ .coming-soon{
+    margin:50px;
+    padding:70px;
+    position:relative;
+    left:60px; 
+    padding-bottom:0px;
+    font-weight: 700px;
+ }
+
+    .greeting-para{
+        line-height: 30px;
+        position:relative;
+        width:30%;
+        padding-top: 0px;
+        margin:0px;
+        left:180px;
+    }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    /* Footer */
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
